@@ -26,10 +26,7 @@
   <a href="https://twitter.com/alpiste_punk" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-smaniotto-a7092b1a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://selftitledghost.tumblr.com" target="_blank"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/profiles/76561198155821516/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
-  
-  
   ![Snake animation](https://github.com/lucassmaniotto/lucassmaniotto/blob/output/github-contribution-grid-snake.svg)
  
 </div>
