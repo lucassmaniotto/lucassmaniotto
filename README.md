@@ -1,4 +1,4 @@
-## Hello There! ⭐🧔⚔️
+## Hello There!
 ### Eu sou o Lucas, tire os sapatos antes de entrar 😄
 
 <div align="center">
