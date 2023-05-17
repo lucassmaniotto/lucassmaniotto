@@ -32,6 +32,6 @@
 ##
   
 <div align="center">
-  <a href="https://github.com/lucassmaniotto">
+  <a href="https://open.spotify.com/user/22gktbankxa4r3eaxarfxdzgi?si=d78a7ea3c0c0476a">
   <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=22gktbankxa4r3eaxarfxdzgi&width=890&count=10">
 </div>
