@@ -1,10 +1,13 @@
-## Hello There!
-### Eu sou o Lucas, tire os sapatos antes de entrar 😄
+# Hello There!
+<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif width="20"> Undergraduate Computer Science Student at <a href="https://github.com/ccuffs"> UFFS Chapecó</a><br>
+<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif width="20"> Passionate about developing, music and games <br>
+<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif width="20"> Currently working/learning React and Typescript <br><br>
 
 <div align="center">
   <a href="https://github.com/lucassmaniotto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassmaniotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassmaniotto&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucassmaniotto&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,10 +16,11 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><br><br>
+  <a href="https://hello-world-lucassmaniotto.vercel.app">💻 Check my portifolio!<a/>
   <img align="right" alt="Lucas-pic" width=18% src="https://i.imgur.com/Es8mmx2.gif">
 </div>
-  
+
   ##
  
 <div>
