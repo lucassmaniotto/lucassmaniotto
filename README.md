@@ -3,6 +3,8 @@
 <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif width="20"> Passionate about web developing, music and games <br>
 <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif width="20"> Currently working with/learning React and Typescript <br><br>
 
+<img align="right" alt="Lucas-pic" width=18% src="https://i.imgur.com/Es8mmx2.gif">
+
 <div align="center">
   <a href="https://github.com/lucassmaniotto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassmaniotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -24,23 +26,17 @@
   <img align="center" alt="Lucas-MSSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" alt="Lucas-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Lucas-Figma" height="30" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><br><br>
-  <img align="right" alt="Lucas-pic" width=18% src="https://i.imgur.com/Es8mmx2.gif">
-</div>
-
-  ##
- 
+  
+</div> 
 <div>
   <h4>Find me at:</h4>
   <a href="https://open.spotify.com/user/22gktbankxa4r3eaxarfxdzgi?si=d78a7ea3c0c0476a" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/alpiste_punk" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-smaniotto-a7092b1a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://hello-world-lucassmaniotto.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-
-  ![Snake animation](https://github.com/lucassmaniotto/lucassmaniotto/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://hello-world-lucassmaniotto.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 </div>
   
-##
+  ##
   
 <div align="center">
   <a href="https://open.spotify.com/user/22gktbankxa4r3eaxarfxdzgi?si=d78a7ea3c0c0476a">
