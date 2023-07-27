@@ -3,8 +3,6 @@
 <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif width="20"> Passionate about web developing, music and games <br>
 <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif width="20"> Currently working with/learning React and Typescript <br><br>
 
-<img align="right" alt="Lucas-pic" width=18% src="https://i.imgur.com/Es8mmx2.gif">
-
 <div align="center">
   <a href="https://github.com/lucassmaniotto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassmaniotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,6 +12,7 @@
 <div style="display: inline_block"><br>
   <h3><a href="https://hello-world-lucassmaniotto.vercel.app">💻 Check my portifolio!</a></h3>
   <h4>Technologies I use:</h4>
+  <img align="right" alt="Lucas-pic" width=18% src="https://i.imgur.com/Es8mmx2.gif">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
