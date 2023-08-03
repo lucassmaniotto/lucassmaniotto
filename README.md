@@ -5,9 +5,9 @@
 
 <div align="center">
   <a href="https://github.com/lucassmaniotto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassmaniotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassmaniotto&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucassmaniotto&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassmaniotto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassmaniotto&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucassmaniotto&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <h3><a href="https://hello-world-lucassmaniotto.vercel.app">💻 Check my portifolio!</a></h3>
