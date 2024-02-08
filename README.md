@@ -1,7 +1,7 @@
 # 👋 Hello There! 
 <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif width="20"> Undergraduate Computer Science Student at <a href="https://github.com/ccuffs"> UFFS Chapecó</a><br>
 <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif width="20"> Passionate about web developing, music and games <br>
-<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif width="20"> Currently working with/learning React, Typescript and Spring <br><br>
+<img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif width="20"> Currently working with/learning Angular <br><br>
 
 <div align="center">
   <a href="https://github.com/lucassmaniotto">
