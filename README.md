@@ -40,7 +40,6 @@
 <div>
   <h4>Find me at:</h4>
   <a href="https://www.linkedin.com/in/lucas-smaniotto-a7092b1a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/alpiste_punk" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/22gktbankxa4r3eaxarfxdzgi?si=d78a7ea3c0c0476a" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://hello-world-lucassmaniotto.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 </div>
@@ -49,5 +48,5 @@
   
 <div align="center">
   <a href="https://open.spotify.com/user/22gktbankxa4r3eaxarfxdzgi?si=d78a7ea3c0c0476a">
-  <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=22gktbankxa4r3eaxarfxdzgi&width=890&count=10">
+  <img alt="Spotify" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=22gktbankxa4r3eaxarfxdzgi&count=10&width=1000&radius=12&duration=1&album=1">
 </div>
